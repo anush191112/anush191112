@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Anushree 👋</h1>
 
-<!--
-**anush191112/anush191112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Applied Mathematics @ Pittsburgh | 💡 Data Scientist | 📊 Quantitative ML Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 📜 Recent Graduate from **Northeastern University** in **Applied Mathematics**
+- 🔭 Currently building projects in **Quant Finance**, **AI-powered Business Analytics**, and **Reinforcement Learning**
+- 🌱 Learning: Deep RL, Portfolio Optimization, Advanced Time-Series Forecasting, Market Microstructure Modeling, Algorithmic Trading Strategies, Bayesian Inference for Financial Decision-Making, Alpha Factor Research, and Systematic Backtesting Frameworks
+
+---
+
+### 💻 Tech Stack
+
+```python
+Languages: Python, R, SQL, Scala, SAS  
+Libraries: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
+Tools: Git, Docker, Tableau, MongoDB, Excel, Jupyter, VSCode
+Languages: Python, SQL, R, MATLAB, C++, C, JavaScript, CSS, HTML, SAS, TensorFlow, Keras, PyTorch
+Database/Tools: Excel, MongoDB, Tableau, Power BI, Pandas, Numpy, Scikit, SQL Server, NoSQL, Git, GBQ, Snowflake  
+Statistics: A/B Testing, Causal Inference, Multivariate Testing, Non-Parametric tests, Probability, ANOVA  
+Machine Learning: Regression, Decision trees, Clustering, Classi`ication, Neural Network, Statistical Modeling, SVM,
+Recommendation System, PCA, SVD, Naı̈ve Bayes, Ensemble Models, MLOps   
